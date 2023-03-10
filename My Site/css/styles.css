@@ -1,0 +1,69 @@
+/******TAG SELECTORS*********/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin:50px auto 0 auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/******CLASS SELECTORS********/
+.top_container{
+    line-height: 2em;
+    background-color: #EAFDFC;
+    padding: 150px;
+    position: relative;
+}
+.cloud_1{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.cloud_2{
+    position: absolute;
+    left: 300px;
+    bottom: 450px;
+}
+
+.profile_pic{
+    width:200px;
+    margin-top: 30px;
+}
+
+.skills_pics{width:150px;}
+
+.sm_icons{
+    position: relative;
+    top: 6px;
+    right: 3px;
+}
+
+.contact_me{
+    color: #11999E;
+}
+
+.footer_link{
+    color: #11999E;
+}

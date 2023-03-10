@@ -1,0 +1,18 @@
+/************************TAG SELECTORS******************************/   
+body{background-color: antiquewhite;}
+img:hover{background-color:gold;}
+
+/*****************************ID SELECTORS**************************/
+#heading{
+    color: red;
+    font-size: 100px;
+}
+/*************************CLASS SELECTORS**************************/
+.bacon{
+    background-color: green;
+    width: 150px
+}
+.broccolli{
+    background-color: red;
+    width: 150px;
+}
